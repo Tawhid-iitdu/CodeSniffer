@@ -1,0 +1,8 @@
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Net.Http.Formatting.xml
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Net.Http.Formatting.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Net.Http.Formatting.pdb
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Net.Http.Formatting\obj\Debug\System.Net.Http.Properties.CommonWebApiResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Net.Http.Formatting\obj\Debug\System.Net.Http.Properties.Resources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Net.Http.Formatting\obj\Debug\System.Net.Http.Formatting.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Net.Http.Formatting\obj\Debug\System.Net.Http.Formatting.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Net.Http.Formatting\obj\Debug\System.Net.Http.Formatting.pdb

@@ -1,0 +1,8 @@
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Razor.xml
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Razor.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Razor.pdb
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Razor\obj\Debug\System.Web.Razor.Common.CommonResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Razor\obj\Debug\System.Web.Razor.Resources.RazorResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Razor\obj\Debug\System.Web.Razor.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Razor\obj\Debug\System.Web.Razor.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Razor\obj\Debug\System.Web.Razor.pdb

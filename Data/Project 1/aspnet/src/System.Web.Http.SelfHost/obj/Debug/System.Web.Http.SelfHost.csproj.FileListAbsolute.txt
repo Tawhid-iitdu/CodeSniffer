@@ -1,0 +1,9 @@
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\System.Web.Http.SelfHost.pdb
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.csprojResolveAssemblyReference.cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.Properties.CommonWebApiResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.Properties.SRResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\System.Web.Http.SelfHost\obj\Debug\System.Web.Http.SelfHost.pdb

@@ -1,0 +1,9 @@
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.Helpers.xml
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.Helpers.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.Helpers.pdb
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.csprojResolveAssemblyReference.cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.Common.CommonResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.Resources.HelpersToolkitResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.Helpers\obj\Debug\Microsoft.Web.Helpers.pdb

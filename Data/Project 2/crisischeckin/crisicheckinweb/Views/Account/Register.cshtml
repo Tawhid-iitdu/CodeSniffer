@@ -1,0 +1,67 @@
+﻿@model crisicheckinweb.ViewModels.RegisterModel
+
+@{
+  ViewBag.Title = "Create new account...";
+}
+
+<div class="col-lg-6 col-sm-12 col-xs-12 col-md-6">
+  <h3>@ViewBag.Title</h3>
+
+  @using (Html.BeginForm())
+  {
+    <div class="form-group">
+      @Html.AntiForgeryToken()
+      @Html.ValidationSummary()
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.FirstName)
+      @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.LastName)
+      @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.SelectedOrganizationId)
+        @Html.DropDownListFor(model => model.SelectedOrganizationId, new SelectList(Model.Organizations, "OrganizationId", "OrganizationName"), "-- no organization --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.SelectedOrganizationId, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.PhoneNumber)
+      @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.Email)
+      @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.UserName)
+      @Html.TextBoxFor(m => m.UserName, new { id = "txt_userName", @class = "form-control" })
+    </div>
+
+    <div class="form-group required">
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password, new { id= "txt_password", @class = "form-control"})
+    </div>
+
+    <div class="form-group required">
+      @Html.LabelFor(m => m.ConfirmPassword)
+      @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+      <input type="submit" value="Create new account" class="btn btn-success" />
+    </div>
+  }
+</div>
+
+@section scripts
+{
+    <script src="~/scripts/App/accountRegister.js"></script>
+}

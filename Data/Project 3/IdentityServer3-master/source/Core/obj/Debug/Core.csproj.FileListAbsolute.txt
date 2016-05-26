@@ -1,0 +1,11 @@
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\build\IdentityServer3.dll.config
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\build\IdentityServer3.xml
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\build\IdentityServer3.dll
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\build\IdentityServer3.pdb
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\IdentityServer3.Core.Resources.Events.resources
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\IdentityServer3.Core.Resources.Messages.resources
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\IdentityServer3.Core.Resources.Scopes.resources
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\Core.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\IdentityServer3.dll
+D:\Google Drive\From Tahmeed\Work Mine\Data\Project 3\IdentityServer3-master\source\Core\obj\Debug\IdentityServer3.pdb

@@ -1,0 +1,10 @@
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\bin\Debug\Microsoft.Web.WebPages.OAuth.pdb
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.csprojResolveAssemblyReference.cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.Common.CommonResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.Properties.WebResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.Resources.OAuthResources.resources
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.csproj.GenerateResource.Cache
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Google Drive\From Tahmeed\Data\aspnetwebstack-5fa60ca38b5837cc843b5d4552113f9a0235c3bf\src\Microsoft.Web.WebPages.OAuth\obj\Debug\Microsoft.Web.WebPages.OAuth.pdb
